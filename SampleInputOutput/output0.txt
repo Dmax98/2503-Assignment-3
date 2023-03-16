@@ -1,0 +1,15 @@
+Total number of words: 0
+Number of Avengers Mentioned: 0
+
+All avengers in the order they appeared in the input stream:
+
+Top 4 most popular avengers:
+
+Top 4 least popular avengers:
+
+All mentioned avengers in alphabetical order:
+
+Height of the mention order tree is : -1 (Optimal height for this tree is : -1)
+Height of the alphabetical tree is : -1 (Optimal height for this tree is : -1)
+Height of the most frequent tree is : -1 (Optimal height for this tree is : -1)
+Height of the least frequent tree is : -1 (Optimal height for this tree is : -1)
