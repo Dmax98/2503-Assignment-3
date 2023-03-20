@@ -25,6 +25,7 @@ public class Avenger implements Comparable <Avenger>{
 	public int compareTo(Avenger a) {
 		return this.heroAlias.compareTo(a.getHeroAlias());
 	}
+	
 
 	/**
 	 * Instantiate Avenger object and calling Comparator
