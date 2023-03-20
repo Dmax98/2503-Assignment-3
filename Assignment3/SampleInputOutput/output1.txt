@@ -1,0 +1,41 @@
+Total number of words: 38
+Number of Avengers Mentioned: 9
+
+All avengers in the order they appeared in the input stream:
+captainamerica aka rogers mentioned 2 time(s)
+ironman aka stark mentioned 2 time(s)
+blackwidow aka romanoff mentioned 2 time(s)
+hulk aka banner mentioned 2 time(s)
+blackpanther aka tchalla mentioned 2 time(s)
+thor aka odinson mentioned 2 time(s)
+warmachine aka rhodes mentioned 2 time(s)
+spiderman aka parker mentioned 2 time(s)
+wintersoldier aka barnes mentioned 2 time(s)
+
+Top 4 most popular avengers:
+blackpanther aka tchalla mentioned 2 time(s)
+blackwidow aka romanoff mentioned 2 time(s)
+captainamerica aka rogers mentioned 2 time(s)
+hulk aka banner mentioned 2 time(s)
+
+Top 4 least popular avengers:
+ironman aka stark mentioned 2 time(s)
+hulk aka banner mentioned 2 time(s)
+wintersoldier aka barnes mentioned 2 time(s)
+spiderman aka parker mentioned 2 time(s)
+
+All mentioned avengers in alphabetical order:
+blackpanther aka tchalla mentioned 2 time(s)
+blackwidow aka romanoff mentioned 2 time(s)
+captainamerica aka rogers mentioned 2 time(s)
+hulk aka banner mentioned 2 time(s)
+ironman aka stark mentioned 2 time(s)
+spiderman aka parker mentioned 2 time(s)
+thor aka odinson mentioned 2 time(s)
+warmachine aka rhodes mentioned 2 time(s)
+wintersoldier aka barnes mentioned 2 time(s)
+
+Height of the mention order tree is : 3 (Optimal height for this tree is : 3)
+Height of the alphabetical tree is : 4 (Optimal height for this tree is : 3)
+Height of the most frequent tree is : 8 (Optimal height for this tree is : 3)
+Height of the least frequent tree is : 4 (Optimal height for this tree is : 3)

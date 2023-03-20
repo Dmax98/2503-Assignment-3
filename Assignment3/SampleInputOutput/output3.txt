@@ -1,0 +1,23 @@
+Total number of words: 481
+Number of Avengers Mentioned: 2
+
+All avengers in the order they appeared in the input stream:
+captainamerica aka rogers mentioned 5 time(s)
+ironman aka stark mentioned 4 time(s)
+
+Top 4 most popular avengers:
+captainamerica aka rogers mentioned 5 time(s)
+ironman aka stark mentioned 4 time(s)
+
+Top 4 least popular avengers:
+ironman aka stark mentioned 4 time(s)
+captainamerica aka rogers mentioned 5 time(s)
+
+All mentioned avengers in alphabetical order:
+captainamerica aka rogers mentioned 5 time(s)
+ironman aka stark mentioned 4 time(s)
+
+Height of the mention order tree is : 1 (Optimal height for this tree is : 1)
+Height of the alphabetical tree is : 1 (Optimal height for this tree is : 1)
+Height of the most frequent tree is : 1 (Optimal height for this tree is : 1)
+Height of the least frequent tree is : 1 (Optimal height for this tree is : 1)
